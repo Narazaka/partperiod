@@ -1,0 +1,21 @@
+{
+	"name": "partperiod",
+	"version": "0.0.1",
+	"description": "PartPeriod - period with placeholder",
+	"main": "partperiod.js",
+	"scripts": {
+		"test": "mocha"
+	},
+	"dependencies": {
+		"parttime" : ">= 0.0.6"
+	},
+	"author": {
+		"name": "narazaka",
+		"url": "http://narazaka.net/"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Narazaka/partperiod.git"
+	}
+}
